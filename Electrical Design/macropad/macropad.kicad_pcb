@@ -47,7 +47,7 @@
 		(allow_soldermask_bridges_in_footprints no)
 		(grid_origin 105.94 91.682402)
 		(pcbplotparams
-			(layerselection 0x00010fc_ffffffff)
+			(layerselection 0x00310fc_ffffffff)
 			(plot_on_all_layers_selection 0x0000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions no)
@@ -81,7 +81,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "gerber")
+			(outputdirectory "macropad - gerber")
 		)
 	)
 	(property "REVISION" "v1.0")
@@ -31944,6 +31944,17 @@
 			(pinfunction "5V")
 			(pintype "passive")
 			(uuid "83f88046-33e9-4cf2-9512-cd0b74a39fda")
+		)
+		(model "${KIPRJMOD}/Library/3D models/Seeed Studio XIAO RP2040 v26.step"
+			(offset
+				(xyz 8.9 10.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
 		)
 	)
 	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
