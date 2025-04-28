@@ -38,12 +38,11 @@ You can access the latest Fusion 360 model here:
    This should open up a removable storage window.   
 3. Drag and drop the firmware to the removable storage window
 
-## 🛒 Bill of Materials (BOM)  
-| Part | Description | Purchase Link |
-|------|------------|--------------|
-| Microcontroller | XIAO RP2040 | [Amazon](#) |
-| part | 10k Ohm | [DigiKey](#) |
-| PCB | Custom-designed | [DigiKey](#) |
+## 🛒 Bill of Materials (BOM)
+[DigiKey](https://www.digikey.com/en/mylists/list/9CPBP16BIQ)
+| Part | Description | Purchase Link  |
+|------|-------------|----------------|
+|      |             |                |
 
 ## 🎥 Video & More Info  
 📺 Watch the full build video: [YouTube Video](#)  
