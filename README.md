@@ -1,7 +1,7 @@
 # Custom Macropad  
 
-![Project Image](https://github.com/bytesizedengineering/macropad/documentation/img1.jpg)  
-*Design files for building a custom 4x5 key, 2 rotary encoder, linear potentiometer, and I2C display macropad *  
+![Project Image](https://github.com/bytesizedengineering/macropad/blob/main/documentation/img2.png)  
+ 
 
 ## 🚀 Overview  
 This project is a custom macropad featuring a 4x5 keyboard, 2 rotary encoders, a linear potentiometer, and an I2C display port. It was featured on the DigiKey [YouTube channel](https://www.youtube.com/@digikey) in [this video](#).  
